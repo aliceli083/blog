@@ -1,0 +1,16 @@
+[
+  {
+    "postTitle": "first post",
+    "contents": "contents of first post"
+    
+  },
+  {
+    "postTitle": "second post",
+    "contents": "contents of second post"
+
+  },
+  {
+    "postTitle": "third post",
+    "contents": "contents of third post"
+  }
+]
